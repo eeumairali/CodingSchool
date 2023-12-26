@@ -103,3 +103,6 @@
   - Use collaboration tools to facilitate communication among team members.
 
 Remember, this is a general roadmap, and you may need to adapt it based on your specific circumstances and project requirements. Regularly communicate with your team, stakeholders, and potential users to ensure you're on the right track.
+
+
+# how to install
